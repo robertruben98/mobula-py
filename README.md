@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/robertruben98/mobula-py/actions/workflows/ci.yml/badge.svg)](https://github.com/robertruben98/mobula-py/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/pypi/v/mobula-py.svg)](https://pypi.org/project/mobula-py/)
+[![Docs](https://img.shields.io/badge/docs-online-blue)](https://robertruben98.github.io/mobula-py/)
 [![Python versions](https://img.shields.io/pypi/pyversions/mobula-py.svg)](https://pypi.org/project/mobula-py/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/robertruben98/mobula-py/blob/main/LICENSE)
 [![Typed](https://img.shields.io/badge/types-mypy%20strict-blue.svg)](https://mypy-lang.org/)
